@@ -1,0 +1,27 @@
+{
+  "name": "vite-plugin-resolve-extension-vue",
+  "version": "0.1.0",
+  "description": "A temporary workaround for issue No loader is configured for \".vue\"",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikeq/vite-plugin-resolve-extension-vue.git"
+  },
+  "keywords": [
+    "vite",
+    "vue"
+  ],
+  "author": "ikeq <ikeq@foxmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikeq/vite-plugin-resolve-extension-vue/issues"
+  },
+  "homepage": "https://github.com/ikeq/vite-plugin-resolve-extension-vue#readme",
+  "devDependencies": {
+    "vite": "2.3.8"
+  }
+}
